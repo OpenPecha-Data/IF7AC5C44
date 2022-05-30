@@ -1,0 +1,26 @@
+id: IF7AC5C44
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:01:59.999963'
+last_modified: '2022-05-30T22:01:59.999968'
+parser: null
+source_metadata:
+  title: Katok Getse Gyurme Tenpa Gyaltsen
+  language: zh
+  description: 'Texts by and about Katok Getse Gyurme Tenpa Gyaltsen (kaḥ thog dge
+    rtse ''gyur med bstan pa rgyal mtshan, 1954–2018), who was the seventh head of
+    the Nyingma tradition:'
+  volume:
+    fC830:
+      title: Prayer of Aspiration for the Buddhist Teachings to Flourish in Taiwan
+      base_file: fC830.txt
+      order: 1
+      parent: Aspiration Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
